@@ -43,7 +43,32 @@
   <div> 📝 <b>EXPERIENCES</b> 📝 </div>
   <br>
   <div>
-    <p>.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>분류</th>
+          <th>소속명</th>
+          <th>재직기간</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td> 학교 </td>
+          <td> 한성대학교 </td>
+          <td> 2018.03 ~ 2022.02 </td>
+        </tr>
+        <tr>
+          <td> 기업 </td>
+          <td> 애니모비 </td>
+          <td> 2021.11 ~ 2022.08 </td>
+        </tr>
+        <tr>
+          <td> 교육기관 </td>
+          <td> SSAFY </td>
+          <td> 2023.01 ~ </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
   <br>
 </div>
