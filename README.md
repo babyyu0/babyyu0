@@ -17,14 +17,16 @@
   <br>
   <div>
     <p>
-      <img  alt="Java"        src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java">
-      <img  alt="PHP"         src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <img  alt="Thymeleaf"   src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+      <img  alt="Java" src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java">
+      <img  alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img  alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
     </p>
     <p>
-      <img  alt="JavaScript"  src ="https://img.shields.io/badge/JavaScript-ffe450?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-      <img  alt="jQuery"      src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-      <img  alt="vue"         src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+      <img  alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-ffe450?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+      <img  alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+      <img  alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+      <img  alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+      <img  alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     </p>
     <p>
       <img  alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -32,6 +34,8 @@
     </p>
     <p>
       <img  alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+      <img  alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+      <img  alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
     </p>
   </div>
   <br>
