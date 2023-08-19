@@ -85,8 +85,8 @@
     <p>
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=dbdud1999" />
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbdud1999&layout=compact" />
-      <img src="https://github-readme-stats.vercel.app/api?username=dbdud1999&show_icons=true&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyyu0&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=babyyu0&show_icons=true&theme=transparent" />
     </p>
   </div>
 </div>
