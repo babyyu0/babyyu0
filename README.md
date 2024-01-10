@@ -37,3 +37,5 @@ SpringBoot를 이용해 웹 개발을 하고, MySQL, MariaDB와 Redis를 사용�
 ### 🏆 역량
 ![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dbdud1999)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=babyyu0&theme=transparent&locale=kr&hide=stars&bg_color=30,9EB8D9,7C93C3&title_color=fff&text_color=fff)
+
