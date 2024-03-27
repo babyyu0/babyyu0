@@ -1,7 +1,6 @@
 ### 🤝 저를 소개합니다
 
 <a href="https://github.com/babyyu0"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-<a href="https://velog.io/@babyyu0"><img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"/></a>
 <a href="https://babyyu0.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC4815?logo=tistory&logoColor=white"/></a>
 
 👋 안녕하세요! **웹 백엔드 개발자** 유영 입니다. 🖥️  
@@ -36,7 +35,9 @@ SpringBoot를 이용해 웹 개발을 하고, MySQL, MariaDB와 Redis를 사용�
 * `2023.01 - 2023.12` &nbsp;&nbsp;&nbsp; **삼성 청년 SW 아카데미 (SSAFY)** 전공자 자바반 입과
 
 ### 🏆 역량
-![solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=dbdud1999)
+<a href="https://solved.ac/profile/dbdud1999"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dbdud1999" alt="Solved.ac" height=195 /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=babyyu0&locale=ko&card_width=480&background=FFFFFF&ring=89B2E9&stroke=F1F1F1&currStreakNum=1058B7&currStreakLabel=6D6D6D&border=D3D3D3&sideNums=1058B7&sideLabels=6D6D6D&fire=EB8B0C&dates=D3D3D3)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=babyyu0&theme=transparent&locale=kr&hide=stars&bg_color=30,9EB8D9,7C93C3&title_color=fff&text_color=fff)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=babyyu0&theme=minimal&hide_title=true" alt="Github Activity Graph" height=320 />
 
