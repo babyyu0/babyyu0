@@ -1,17 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0096D6&height=150&section=header" />
+
 ### 🤝 저를 소개합니다
 
 <a href="https://github.com/babyyu0"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
 <a href="https://babyyu0.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC4815?logo=tistory&logoColor=white"/></a>
 
-👋 안녕하세요! **웹 백엔드 개발자** 유영 입니다. 🖥️  
-SpringBoot를 이용해 웹 개발을 하고, MySQL, MariaDB와 Redis를 사용해 데이터를 관리합니다. 🗃️  
-💯 1일 1알고리즘 문제와 😺 1일 1커밋을 진행하며 역량을 향상시키고 있습니다.
+👋 Hi, there! **윈도우 개발자** 유영 입니다. 🖥️  
+C++를 이용해 워드프로세서 엔진과 파생 솔루션들을 개발하고 있습니다. 💫  
+취미로 📚독서와 🎮게임을 즐기며 스트레스를 해소하고 있어요!
 
 ### 🛠️ 기술 역량
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-EA2D2E?style=flat-square&logo=java)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -26,13 +27,16 @@ SpringBoot를 이용해 웹 개발을 하고, MySQL, MariaDB와 Redis를 사용�
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
 ### 📅 경험
 * `2018.03 - 2022.02` &nbsp;&nbsp;&nbsp; **한성대학교** 컴퓨터공학부 재학
 * `2021.11 - 2022.08` &nbsp;&nbsp;&nbsp; **애니모비** 시스템개발본부 재직
 * `2023.01 - 2023.12` &nbsp;&nbsp;&nbsp; **삼성 청년 SW 아카데미 (SSAFY)** 전공자 자바반 입과
+* `2024.05 - 2024.12` &nbsp;&nbsp;&nbsp; **비투비씨앤아이** 개발본부 재직
+* `2024.12 - 현재` &nbsp;&nbsp;&nbsp; **한글과컴퓨터** 오피스개발팀 재직
 
 ### 🏆 역량
 <a href="https://solved.ac/profile/dbdud1999"><img src="http://mazassumnida.wtf/api/generate_badge?boj=dbdud1999" alt="Solved.ac" height=195 /></a>
